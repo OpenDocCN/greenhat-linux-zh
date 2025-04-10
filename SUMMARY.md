@@ -1,2 +1,7 @@
++   [FreeBSD 绝对指南](docs/abs-freebsd/README.md)
++   [AutoTools 指南第二版](docs/attl-2e/README.md)
++   [电脑高手](docs/cmp-sr/README.md)
 +   [Linux 工作原理第三版](docs/hw-linux-wk-3e/README.md)
++   [Linux 编程接口](docs/linux-prog-itf/README.md)
 +   [面向系统管理员的 powershell 指南](docs/pwsh-sysadm/README.md)
++   [超酷的 Shell 脚本](docs/wkd-cl-shscp/README.md)
